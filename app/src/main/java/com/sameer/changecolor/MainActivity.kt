@@ -23,7 +23,7 @@ class MainActivity : AppCompatActivity() {
         }
         bnty.setOnClickListener {
 
-             Toast.makeText(applicationContext, "yellolw color!", Toast.LENGTH_SHORT)
+             Toast.makeText(applicationContext, "yellolw color!", Toast.LENGTH_LONG).show()
             layout.setBackgroundResource(R.color.yellow)
         }
         ViewCompat.setOnApplyWindowInsetsListener(findViewById(R.id.linearlayout)) { v, insets ->
