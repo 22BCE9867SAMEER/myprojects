@@ -1,6 +1,14 @@
 <resources xmlns:tools="http://schemas.android.com/tools">
     <!-- Base application theme. -->
+<<<<<<< HEAD
     <style name="Base.Theme.MyRoughth2" parent="Theme.Material3.DayNight.NoActionBar">
+=======
+<<<<<<< HEAD
+    <style name="Base.Theme.Rough1" parent="Theme.Material3.DayNight.NoActionBar">
+=======
+    <style name="Base.Theme.Changecolor" parent="Theme.Material3.DayNight.NoActionBar">
+>>>>>>> a2c403f72d598c3ead8e721ccce2c77893ae121e
+>>>>>>> 12a6c98d9f8c2f93d4dc7619390326cf2de7bb0c
         <!-- Customize your dark theme here. -->
         <!-- <item name="colorPrimary">@color/my_dark_primary</item> -->
     </style>

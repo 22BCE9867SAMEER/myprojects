@@ -19,6 +19,13 @@ dependencyResolutionManagement {
     }
 }
 
+<<<<<<< HEAD
 rootProject.name = "my roughth2"
+=======
+
+rootProject.name = "rough1"
+
+rootProject.name = "changecolor"
+>>>>>>> 12a6c98d9f8c2f93d4dc7619390326cf2de7bb0c
 include(":app")
  
