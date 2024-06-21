@@ -19,6 +19,9 @@ dependencyResolutionManagement {
     }
 }
 
+
 rootProject.name = "rough1"
+
+rootProject.name = "changecolor"
 include(":app")
  

@@ -1,3 +1,7 @@
 <resources>
+<<<<<<< HEAD
     <string name="app_name">rough1</string>
+=======
+    <string name="app_name">changecolor</string>
+>>>>>>> a2c403f72d598c3ead8e721ccce2c77893ae121e
 </resources>
