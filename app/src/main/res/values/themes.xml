@@ -1,9 +1,57 @@
 <resources xmlns:tools="http://schemas.android.com/tools">
     <!-- Base application theme. -->
+<<<<<<< HEAD
     <style name="Base.Theme.Letcurer1" parent="Theme.Material3.DayNight.NoActionBar">
+=======
+<<<<<<< HEAD
+    <style name="Base.Theme.Splanishscreen" parent="Theme.Material3.DayNight.NoActionBar">
+=======
+<<<<<<< HEAD
+    <style name="Base.Theme.MultiScreen" parent="Theme.Material3.DayNight.NoActionBar">
+=======
+<<<<<<< HEAD
+    <style name="Base.Theme.SignUp2" parent="Theme.Material3.DayNight.NoActionBar">
+=======
+<<<<<<< HEAD
+    <style name="Base.Theme.MyRoughth2" parent="Theme.Material3.DayNight.NoActionBar">
+=======
+<<<<<<< HEAD
+    <style name="Base.Theme.Rough1" parent="Theme.Material3.DayNight.NoActionBar">
+=======
+    <style name="Base.Theme.Changecolor" parent="Theme.Material3.DayNight.NoActionBar">
+>>>>>>> a2c403f72d598c3ead8e721ccce2c77893ae121e
+>>>>>>> 12a6c98d9f8c2f93d4dc7619390326cf2de7bb0c
+>>>>>>> ddd14147b41b53a07df447c9782f2fe9b0a2868d
+>>>>>>> 16284ccb47df06d0f8dd03ebef05b1a3686e36ea
+>>>>>>> 837bb6f65d820627745eec1210660c2bc84d94fe
+>>>>>>> 9e6a600b86c9e6fa602c954cbabf80d7e16d1712
         <!-- Customize your light theme here. -->
         <!-- <item name="colorPrimary">@color/my_light_primary</item> -->
     </style>
 
+<<<<<<< HEAD
     <style name="Theme.Letcurer1" parent="Base.Theme.Letcurer1" />
+=======
+<<<<<<< HEAD
+    <style name="Theme.Splanishscreen" parent="Base.Theme.Splanishscreen" />
+=======
+<<<<<<< HEAD
+    <style name="Theme.MultiScreen" parent="Base.Theme.MultiScreen" />
+=======
+<<<<<<< HEAD
+    <style name="Theme.SignUp2" parent="Base.Theme.SignUp2" />
+=======
+<<<<<<< HEAD
+    <style name="Theme.MyRoughth2" parent="Base.Theme.MyRoughth2" />
+=======
+<<<<<<< HEAD
+    <style name="Theme.Rough1" parent="Base.Theme.Rough1" />
+=======
+    <style name="Theme.Changecolor" parent="Base.Theme.Changecolor" />
+>>>>>>> a2c403f72d598c3ead8e721ccce2c77893ae121e
+>>>>>>> 12a6c98d9f8c2f93d4dc7619390326cf2de7bb0c
+>>>>>>> ddd14147b41b53a07df447c9782f2fe9b0a2868d
+>>>>>>> 16284ccb47df06d0f8dd03ebef05b1a3686e36ea
+>>>>>>> 837bb6f65d820627745eec1210660c2bc84d94fe
+>>>>>>> 9e6a600b86c9e6fa602c954cbabf80d7e16d1712
 </resources>
